@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background-color: #a5d7e8;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+button {
+  padding: 7px 10px;
+  margin-left: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  color: white;
+  background-color: #aaa;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.ToDo-task {
+  margin-bottom: 10px;
+}
+
+.alert-text {
+  font-size: 14px;
+  color: red;
+  text-align: center;
+}
